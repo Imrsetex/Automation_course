@@ -13,8 +13,8 @@ import java.util.Map;
 
 public class FacebookGetFirstMessage {
 
-    private String pass = "serega1988";
-    private String email = "imrsetex@gmail.com";
+    private String pass = "*****";
+    private String email = "******@gmail.com";
     private By emailInput = By.xpath("//input[@name='email']");
     private By passInput = By.xpath("//input[@name='pass']");
     private By loginBtn = By.xpath("//button[@id='loginbutton']");
