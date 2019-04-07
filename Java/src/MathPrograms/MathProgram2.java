@@ -7,11 +7,12 @@ public class MathProgram1 {
      **/
 
     public static void main(String[] args) {
-        int q = 21;
-        int w = 8;
 
-        long s = q + w;
-        System.out.println("Result: " + s);
+        int n = 55;
+        int w = n % 10;
+        int c = (n / 10) % 10;
+
+        System.out.println("The sum of the digits of the number: " + n + ". \nIs equal to " + (w + c));
 
     }
 }
