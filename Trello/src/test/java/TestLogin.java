@@ -17,9 +17,12 @@ public class TestLogin extends BrowserFactory {
     }
 
     @Test
-    public void logout() {
-        boardsPage.isOpened();
+    public void logout() throws InterruptedException{
+        loginPage.open();
+        loginPage.isOpened();
+        loginPage.login("selectmaxqa@gmail.com", "123qwerty");
         boardsPage.openBoard("VENOM");
+        boardsPage.isOpened();
         boardsPage.logOut();
     }
 }

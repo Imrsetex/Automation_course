@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="360">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ui/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            <state relative-caret-position="272">
+              <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/TrelloUI.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ui/pages/BoardsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="287">
+              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#407#408#0" expanded="true" />
@@ -159,9 +159,9 @@
         <option value="$PROJECT_DIR$/src/test/java/TrelloRestClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/ui/core/Elem.java" />
         <option value="$PROJECT_DIR$/src/main/java/ui/core/BrowserFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/TrelloUI.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ui/pages/BoardsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ui/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/TrelloUI.xml" />
         <option value="$PROJECT_DIR$/src/test/java/TestLogin.java" />
       </list>
     </option>
@@ -219,24 +219,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trello" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trello" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Trello" type="b2602c69:ProjectViewProjectNode" />
@@ -274,7 +257,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563315124569" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563316153730" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2862069" />
@@ -291,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestLogin">
+  <component name="RunManager" selected="TestNG./Users/sergey/Projects/Trello/src/main/resources/TrelloUI.xml">
     <configuration name="TestLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Trello" />
       <option name="PACKAGE_NAME" value="" />
@@ -339,8 +322,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestLogin" />
         <item itemvalue="TestNG./Users/sergey/Projects/Trello/src/main/resources/TrelloUI.xml" />
+        <item itemvalue="TestNG.TestLogin" />
         <item itemvalue="TestNG.TestLogin.login" />
         <item itemvalue="TestNG.TryLogger.asdasd" />
       </list>
@@ -360,18 +343,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLogin - 2019.06.22 at 14h 22m 53s.xml">
-      <configuration name="TestLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin_login - 2019.06.22 at 14h 26m 16s.xml">
-      <configuration name="TestLogin.login" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin_login - 2019.06.22 at 14h 29m 54s.xml">
-      <configuration name="TestLogin.login" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogin_login - 2019.07.16 at 18h 23m 33s.xml">
-      <configuration name="TestLogin.login" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestLogin - 2019.07.16 at 18h 32m 05s.xml">
       <configuration name="TestLogin" configurationId="TestNG" />
     </history-entry>
@@ -388,6 +359,18 @@
       <configuration name="/Users/sergey/Projects/Trello/src/main/resources/TrelloUI.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="_Users_sergey_Projects_Trello_src_main_resources_TrelloUI_xml - 2019.07.17 at 00h 44m 04s.xml">
+      <configuration name="/Users/sergey/Projects/Trello/src/main/resources/TrelloUI.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLogin - 2019.07.17 at 01h 09m 34s.xml">
+      <configuration name="TestLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_sergey_Projects_Trello_src_main_resources_TrelloUI_xml - 2019.07.17 at 01h 22m 16s.xml">
+      <configuration name="/Users/sergey/Projects/Trello/src/main/resources/TrelloUI.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_sergey_Projects_Trello_src_main_resources_TrelloUI_xml - 2019.07.17 at 01h 23m 16s.xml">
+      <configuration name="/Users/sergey/Projects/Trello/src/main/resources/TrelloUI.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_sergey_Projects_Trello_src_main_resources_TrelloUI_xml - 2019.07.17 at 01h 25m 20s.xml">
       <configuration name="/Users/sergey/Projects/Trello/src/main/resources/TrelloUI.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -559,16 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TrelloRestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ui/core/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -599,13 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TrelloUI.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ui/core/Elem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -622,20 +588,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ui/pages/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TrelloUI.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ui/pages/BoardsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="287">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#407#408#0" expanded="true" />
@@ -644,10 +607,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TrelloRestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,9 +1,27 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Trello Exam">
+
     <test name="Login - UI test">
         <classes>
-            <class name="TestLogin"/>
+            <class name="TestLogin">
+                <methods>
+                    <include name="login"/>
+                </methods>
+            </class>
         </classes>
     </test>
+
+    <test name="Logout - UI test">
+        <classes>
+            <class name="TestLogin">
+                <methods>
+                    <include name="logout"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
 </suite>
+
+
